@@ -5,3 +5,4 @@ Latihan
 -PHP
 -Java Script
 -python
+-laravel
