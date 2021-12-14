@@ -4,3 +4,4 @@ Latihan
 -CSS Framework
 -PHP
 -Java Script
+-python
