@@ -2,5 +2,8 @@ rencana latihan Danu Candra
 
 -node js
 -php framework
--framework css
+*laravel
+*codeigniter
 -framework javascript
+*view
+node
